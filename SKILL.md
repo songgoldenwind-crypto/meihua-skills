@@ -17,7 +17,9 @@ description: 用于完整梅花易数流程：时间、数字、文字笔画、�
 | --- | --- | --- |
 | 公历/农历时间、两个或三个数字、物数、声数、丈尺、尺寸、字数或确认笔画起卦 | 纯梅花起卦 | [01-casting-methods.md](references/01-casting-methods.md)、[02-body-use.md](references/02-body-use.md) |
 | 明确要求按抓米两次数法起卦，且有两次计数与时支 | 现代抓米法 | [01-casting-methods.md](references/01-casting-methods.md) 的专节；标签与默认两数法分开 |
+| 明确指定钟点、钟点拆位、电话末四位或姓名笔画 | 预定数字变体 | [01-casting-methods.md](references/01-casting-methods.md)；先固定原始输入与换数口径，再交给 `numbers`，不事后挑盘 |
 | 人物身份、动作、所持物、服色、动物、静物异常或方位直接起卦 | 后天端法 | [01-casting-methods.md](references/01-casting-methods.md)、[03-external-omens.md](references/03-external-omens.md)、[10-three-essentials.md](references/10-three-essentials.md) |
+| 已知上下卦和动爻，要求校验盘面 | 已有卦盘复核 | `manual` 仅复核本互变与体用，不当作新起卦法 |
 | 已有一卦，要求完整体用、生克、旺衰、本互变或冲突裁决 | 体用主链 | [02-body-use.md](references/02-body-use.md)、[06-advanced-interpretation.md](references/06-advanced-interpretation.md)、[09-interpretive-principles.md](references/09-interpretive-principles.md) |
 | 工作、考试、求财、交易、婚恋、出行、行人、失物、住居、天气等具体事项 | 分类占 | [05-topic-reading.md](references/05-topic-reading.md)，再按需读 [04-timing.md](references/04-timing.md) |
 | 现场所见所闻、三要、十应、真假外应、来去向背 | 外应与克应 | [03-external-omens.md](references/03-external-omens.md)、[10-three-essentials.md](references/10-three-essentials.md)、[06-advanced-interpretation.md](references/06-advanced-interpretation.md) |
